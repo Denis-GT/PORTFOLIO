@@ -1,0 +1,93 @@
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOL_REGION_V3\LIB_REGION\bin\Debug\cities.json
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOL_REGION_V3\LIB_REGION\bin\Debug\departments.json
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOL_REGION_V3\LIB_REGION\bin\Debug\regions.json
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOL_REGION_V3\LIB_REGION\bin\Debug\LIB_REGION.dll.config
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOL_REGION_V3\LIB_REGION\bin\Debug\LIB_REGION.dll
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOL_REGION_V3\LIB_REGION\bin\Debug\LIB_REGION.pdb
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOL_REGION_V3\LIB_REGION\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOL_REGION_V3\LIB_REGION\bin\Debug\System.Buffers.dll
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOL_REGION_V3\LIB_REGION\bin\Debug\System.Memory.dll
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOL_REGION_V3\LIB_REGION\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOL_REGION_V3\LIB_REGION\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOL_REGION_V3\LIB_REGION\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOL_REGION_V3\LIB_REGION\bin\Debug\System.Text.Json.dll
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOL_REGION_V3\LIB_REGION\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOL_REGION_V3\LIB_REGION\bin\Debug\System.ValueTuple.dll
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOL_REGION_V3\LIB_REGION\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOL_REGION_V3\LIB_REGION\bin\Debug\System.Buffers.xml
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOL_REGION_V3\LIB_REGION\bin\Debug\System.Memory.xml
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOL_REGION_V3\LIB_REGION\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOL_REGION_V3\LIB_REGION\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOL_REGION_V3\LIB_REGION\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOL_REGION_V3\LIB_REGION\bin\Debug\System.Text.Json.xml
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOL_REGION_V3\LIB_REGION\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOL_REGION_V3\LIB_REGION\bin\Debug\System.ValueTuple.xml
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOL_REGION_V3\LIB_REGION\obj\Debug\LIB_REGION.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOL_REGION_V3\LIB_REGION\obj\Debug\LIB_REGION.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOL_REGION_V3\LIB_REGION\obj\Debug\LIB_REGION.csproj.CopyComplete
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOL_REGION_V3\LIB_REGION\obj\Debug\LIB_REGION.dll
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOL_REGION_V3\LIB_REGION\obj\Debug\LIB_REGION.pdb
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\cities.json
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\departments.json
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\regions.json
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\LIB_REGION.dll.config
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\LIB_REGION.dll
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\LIB_REGION.pdb
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\System.Buffers.dll
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\System.Memory.dll
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\System.Text.Json.dll
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\System.ValueTuple.dll
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\System.Buffers.xml
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\System.Memory.xml
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\System.Text.Json.xml
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\System.ValueTuple.xml
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\obj\Debug\LIB_REGION.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\obj\Debug\LIB_REGION.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\obj\Debug\LIB_REGION.csproj.CopyComplete
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\obj\Debug\LIB_REGION.dll
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\obj\Debug\LIB_REGION.pdb
+C:\Users\Denis\Desktop\BTS 1\SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\Emetteurs_Reduits_2023.json
+C:\Users\Denis\Desktop\BTS 1\A - SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\cities.json
+C:\Users\Denis\Desktop\BTS 1\A - SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\departments.json
+C:\Users\Denis\Desktop\BTS 1\A - SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\regions.json
+C:\Users\Denis\Desktop\BTS 1\A - SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\Emetteurs_Reduits_2023.json
+C:\Users\Denis\Desktop\BTS 1\A - SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\LIB_REGION.dll.config
+C:\Users\Denis\Desktop\BTS 1\A - SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\LIB_REGION.dll
+C:\Users\Denis\Desktop\BTS 1\A - SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\LIB_REGION.pdb
+C:\Users\Denis\Desktop\BTS 1\A - SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Denis\Desktop\BTS 1\A - SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\Denis\Desktop\BTS 1\A - SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\System.Buffers.dll
+C:\Users\Denis\Desktop\BTS 1\A - SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\System.Memory.dll
+C:\Users\Denis\Desktop\BTS 1\A - SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Denis\Desktop\BTS 1\A - SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Denis\Desktop\BTS 1\A - SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Denis\Desktop\BTS 1\A - SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\System.Text.Json.dll
+C:\Users\Denis\Desktop\BTS 1\A - SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Denis\Desktop\BTS 1\A - SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\System.ValueTuple.dll
+C:\Users\Denis\Desktop\BTS 1\A - SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Denis\Desktop\BTS 1\A - SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\Denis\Desktop\BTS 1\A - SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\System.Buffers.xml
+C:\Users\Denis\Desktop\BTS 1\A - SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\System.Memory.xml
+C:\Users\Denis\Desktop\BTS 1\A - SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Denis\Desktop\BTS 1\A - SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Denis\Desktop\BTS 1\A - SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Denis\Desktop\BTS 1\A - SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\System.Text.Json.xml
+C:\Users\Denis\Desktop\BTS 1\A - SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Denis\Desktop\BTS 1\A - SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\bin\Debug\System.ValueTuple.xml
+C:\Users\Denis\Desktop\BTS 1\A - SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\obj\Debug\LIB_REGION.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\BTS 1\A - SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\obj\Debug\LIB_REGION.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\BTS 1\A - SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\obj\Debug\LIB_REGION.dll
+C:\Users\Denis\Desktop\BTS 1\A - SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\obj\Debug\LIB_REGION.pdb
+C:\Users\Denis\Desktop\BTS 1\A - SIO Vinola =====\WPF\SOLUTION_REGION\SOL_REGION_V3_PAC\LIB_REGION\obj\Debug\LIB_REGION.csproj.Up2Date
